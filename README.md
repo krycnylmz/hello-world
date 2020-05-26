@@ -1,4 +1,4 @@
 # hello-world
-firts trying for GitHub
+first trying for GitHub
 
 Keep going to learn
